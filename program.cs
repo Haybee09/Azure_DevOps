@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // Display a prompt to the user
-        Console.Write("Enter your name: ");
+        Console.Write("Please, Enter your name: ");
         
         // Read user input
         string userName = Console.ReadLine();
